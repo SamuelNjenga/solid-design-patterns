@@ -11,4 +11,5 @@
 <br>
 5. Dependency Inversion
 <br>
-Author: Samuel njenga
+<br>
+Author: Samuel Njenga
